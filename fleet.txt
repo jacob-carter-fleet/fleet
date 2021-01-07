@@ -1,0 +1,332 @@
+﻿[
+	
+
+{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "724-266-114,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "836-899-127,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "521-991-212,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "954-222-921,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "961-646-743,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "587-154-389,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "744-648-979,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "555-586-867,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "936-157-889,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "914-323-194,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "243-178-338,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "965-537-739,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "297-668-692,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "745-676-331,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "368-218-861,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "543-971-295,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "564-261-899,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "991-353-415,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "739-295-448,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "356-161-579,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "884-576-567,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "421104445066182656",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "235-992-199,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "561-432-389,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "575-844-576,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "723-213-637,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "223-523-646,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "315-762-223,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "244-945-281,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "288-336-487,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "182-491-916,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "373-876-728,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "544-743-227,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : "100418279939514368"
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "745-879-492,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "922-221-663,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : "100418279939514368"
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "994-811-666,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "100418279939514368",
+"tagIdOnClimb" : "100418279939514368"
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "567-866-257,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "495-464-852,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "425-734-842,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "673-641-864,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "533-289-539,",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+},
+	{
+"name": "",
+"comment": "useIcon accepts emoji or any other text",
+"allyCode": "687-544-671",
+"userIcon": ":warning:",
+"tagIdOnDrop": "",
+"tagIdOnClimb" : ""
+}
+]
